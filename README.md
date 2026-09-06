@@ -1,2 +1,2 @@
-# Intenship
+# Internship
 Tasks
